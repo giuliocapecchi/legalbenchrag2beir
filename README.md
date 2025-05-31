@@ -1,4 +1,4 @@
-# LegalBench-RAG Converter
+# legalbenchrag2beir
 
 [**LegalBench-RAG**](https://github.com/zeroentropy-ai/legalbenchrag?tab=readme-ov-file) is a newly introduced benchmark by [ZeroEntropy](https://www.zeroentropy.dev/) designed to evaluate the retrieval capabilities of Retrieval-Augmented Generation (RAG) systems in the legal domain. 
 
